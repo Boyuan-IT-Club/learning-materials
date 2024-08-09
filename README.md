@@ -27,10 +27,15 @@
 - 推荐采用与新增内容相似的方式添加文件
 - 格式说明(参照[無花果的笔记])
 > ###用途或方向---名称
+> 
 > [资源名称](链接\)
+>
 > info : 
+>
 > contributor : xxx
+>
 > date : xxxx年xx月
+>
 > contact : \[类型如qq/wx] xxxx
 
 
@@ -45,11 +50,14 @@
 
 ### 知名cs学习指南---CS自学指南
 [北大的自学指南](csdiy.wiki)
-info : 网络上一份较为知名的cs学习指南
+>info : 网络上一份较为知名的cs学习指南
 
 ### 个人学习笔记---無花果的笔记
 [无花果的笔记](studyfarm.flowus.cn)
-info : 个人学习笔记
-contributor : 无花果(2023级)
-date : 2024年7月
-contact : 
+>info : 个人学习笔记
+>
+>contributor : 无花果(2023级)
+>
+>date : 2024年7月
+>
+>contact : 
