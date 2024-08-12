@@ -20,7 +20,7 @@
 ## 基础操作指令
 
 - git add  将文件提交到暂存区
-    (add .可以提交所有wenj )
+    (add .可以提交所有文件 )
 - git commit 从暂存区提交到本地仓库(.同理)
     (git commit -m  "注释内容")
 - git status   查看文件状态
