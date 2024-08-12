@@ -6,8 +6,8 @@
 
 1. 打开Git Bash
 2. 设置用户信息
-    - git config --global username  "名称"
-    - git config --global useremail  "邮箱名称"
+    - git config --global user.name  "名称"
+    - git config --global user.email  "邮箱名称"
 3. 查看配置信息
     - git config --global user.name
     - git config --global user.email
