@@ -51,12 +51,12 @@
 
 ### 知名cs学习指南---CS自学指南
 
-[北大的自学指南](csdiy.wiki)
+[北大的自学指南](https://csdiy.wiki/)
 >info : 网络上一份较为知名的cs学习指南
 
 ### 个人学习笔记---無花果的笔记
 
-[无花果的笔记](studyfarm.flowus.cn)
+[无花果的笔记](https://studyfarm.flowus.cn/)
 >info : 个人学习笔记
 >
 >contributor : 无花果(2023级)
