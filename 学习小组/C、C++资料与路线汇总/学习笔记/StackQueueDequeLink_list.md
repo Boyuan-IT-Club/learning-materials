@@ -14,7 +14,7 @@
 
 ```mermaid
 flowchart LR；
-    head -->|next|node_0-->|next|node_1-.->|next|node_n-->|next|head;
+    head-->|next|node_0-->|next|node_1-.->|next|node_n-->|next|head;
     head-->|pre|node_n-.->|pre|node_1-->|pre|node_0-->|pre|head;   
 ```
 
