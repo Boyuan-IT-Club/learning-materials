@@ -77,8 +77,8 @@ public:
     virtual void swap(stack<__Tp> another)
     {
         node<__Tp> *swapNode = another.head;
-        another.head = this->head;
-        this->head = swapNode;
+        swapNode = this->head;
+        this->head = another.head;
         return;
     }
 };
@@ -106,8 +106,8 @@ public:
     virtual void swap(queue<__Tp> another)
     {
         node<__Tp> *swapNode = another.head;
-        another.head = this->head;
-        this->head = swapNode;
+        swapNode = this->head;
+        this->head = another.head;
         return;
     }
 };
@@ -128,8 +128,8 @@ public:
     virtual void swap(deque<__Tp> another)
     {
         node<__Tp> *swapNode = another.head;
-        another.head = this->head;
-        this->head = swapNode;
+        swapNode = this->head;
+        this->head = another.head;
         return;
     }
 };
