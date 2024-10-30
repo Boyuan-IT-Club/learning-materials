@@ -14,8 +14,8 @@
 
 ```mermaid
 flowchart LR；
-    head --> |next| node_0 --> |next| node_1 -.-> |next| node_n --> |next| head;
-    head --> |pre| node_n -.-> |pre| node_1 --> |pre| node_0 --> |pre| head;   
+    head -->|next|node_0-->|next|node_1-.->|next|node_n-->|next|head;
+    head-->|pre|node_n-.->|pre|node_1-->|pre|node_0-->|pre|head;   
 ```
 
 此为**带有头节点的环形双向链表**的结构示意图，不难看出，在已知头节点的情况下，找到第一个节点、尾节点的时间复杂度均为O(1)，寻找任意节点的前节点与后节点的时间复杂度也为O(1)，处理部分操作时速率更快，便于后续结构的实现。
