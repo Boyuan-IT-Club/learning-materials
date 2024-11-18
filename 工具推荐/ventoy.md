@@ -4,4 +4,4 @@
 
 官网：[https://www.ventoy.net/cn/download.html](https://www.ventoy.net/cn/download.html)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

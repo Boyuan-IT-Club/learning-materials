@@ -4,4 +4,4 @@
 
 官网：[https://www.wepe.com.cn/](https://www.wepe.com.cn/)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

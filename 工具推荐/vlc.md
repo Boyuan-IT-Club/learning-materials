@@ -4,4 +4,4 @@
 
 官网：[https://www.videolan.org/vlc/](https://www.videolan.org/vlc/)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

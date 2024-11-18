@@ -4,4 +4,4 @@
 
 官网地址：[https://7-zip.org/](https://7-zip.org/)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

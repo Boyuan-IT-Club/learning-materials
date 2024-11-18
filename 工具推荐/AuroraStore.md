@@ -4,4 +4,4 @@
 
 官网：[https://aurorastore.org](https://aurorastore.org)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

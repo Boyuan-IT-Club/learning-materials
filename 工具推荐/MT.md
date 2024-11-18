@@ -4,4 +4,4 @@
 
 官网：[https://mt2.cn/](https://mt2.cn)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)
