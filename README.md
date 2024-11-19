@@ -66,3 +66,14 @@
 >date : 2024年7月
 >
 >contact :
+
+### 个人博客---Eagle233-Blog
+
+[Eagle233-Blog](https://blog.eagle233.top/)
+>info : 个人博客
+>
+>contributor : 陈睿(2024级)
+>
+>date : 2024年9月
+>
+>contact : QQ: 1518007199 [Email](eagle233real@outlook.com) [GitHub](https://github.com/Eagle233Fake)
