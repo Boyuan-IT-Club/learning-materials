@@ -4,4 +4,4 @@
 
 官网：[https://portableapps.com/download](https://portableapps.com/download)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

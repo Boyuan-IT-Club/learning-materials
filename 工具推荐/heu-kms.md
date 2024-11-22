@@ -4,4 +4,4 @@
 
 官网地址：[https://github.com/zbezj/HEU_KMS_Activator/releases](https://github.com/zbezj/HEU_KMS_Activator/releases)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

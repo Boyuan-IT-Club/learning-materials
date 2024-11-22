@@ -4,4 +4,4 @@
 
 官网：[https://otp.landian.vip/zh-cn/](https://otp.landian.vip/zh-cn/)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

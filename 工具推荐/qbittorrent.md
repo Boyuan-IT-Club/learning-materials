@@ -4,4 +4,4 @@
 
 官网：[https://sourceforge.net/projects/qbittorrent/](https://sourceforge.net/projects/qbittorrent/)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)
