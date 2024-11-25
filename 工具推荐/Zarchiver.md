@@ -4,4 +4,4 @@
 
 官网：[http://zdevs.ru/en/](http://zdevs.ru/en/)
 
-> 推荐者：张春晓
+> 推荐者：[ChiyoYuki](https://github.com/ChiyoYuki)

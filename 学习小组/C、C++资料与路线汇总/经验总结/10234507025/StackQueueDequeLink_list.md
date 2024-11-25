@@ -1,6 +1,6 @@
 # 基于C++面向对象与模板以带有头节点的环形双向链表为基础，对链表、栈、队列和双向队列的实现
 
-作者：10234507025张春晓
+作者：10234507025[ChiyoYuki](https://github.com/ChiyoYuki)
 
  <p xmlns:cc="http://creativecommons.org/ns#" >本文及代码文件遵循 <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0共享协议<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
