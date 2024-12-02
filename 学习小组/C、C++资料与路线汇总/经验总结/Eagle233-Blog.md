@@ -38,6 +38,10 @@
 
 - **使用[sm.ms](https://sm.ms/)作为图床，原因是无法搞定 Hexo 本地图片配置。**
 
-### 202411230
+### 20241130
 
 - **[CS50x]** Week 8 - HTML, CSS, JavaScript
+
+### 20241202
+
+- **[CS50x]** Week 9 - Flask
