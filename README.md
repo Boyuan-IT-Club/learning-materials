@@ -77,3 +77,14 @@
 >date : 2024年9月
 >
 >contact : QQ: 1518007199 [Email](eagle233real@outlook.com) [GitHub](https://github.com/Eagle233Fake)
+
+### 个人博客---Mitchell's Homepage
+
+[Mitchell's Homepage](https://zeyi2.github.io)
+>info : 个人博客
+>
+>contributor : 徐泽逸(2024级)
+>
+>date : 2024年12月
+>
+>contact : [Email](mailto:mitchell@segfault.net)
