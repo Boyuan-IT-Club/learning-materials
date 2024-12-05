@@ -31,3 +31,21 @@
 ### 20241125
 
 - **[CS50x]** Week 7 - SQL
+
+### 20241128
+
+- **[CS50x]** Week 8 - HTML, CSS, JavaScript
+
+- **使用[sm.ms](https://sm.ms/)作为图床，原因是无法搞定 Hexo 本地图片配置。**
+
+### 20241130
+
+- **[CS50x]** Week 8 - HTML, CSS, JavaScript
+
+### 20241202
+
+- **[CS50x]** Week 9 - Flask
+
+### 20241203
+
+- **[CS50x]** Week 9 - Flask 由于难度过大，补充了 Lecture 的笔记。
